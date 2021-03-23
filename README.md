@@ -1,4 +1,4 @@
-# -
+# - I never saw a wild thing sorry for itself. A small bird will drop frozen dead from a bough, without ever having felt sorry for itself
 谨记：不论到了哪里，都不能忘了学习和进步
 
   作为一个程序猿，其实一直并没有觉得github有什么特别的作用，但这个观点最近两年开始有了改变。  
