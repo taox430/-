@@ -23,6 +23,7 @@
 参考链接  
 [1，理论](https://blog.csdn.net/yjn1995/article/details/98472759)  
 [2，例子 1](https://blog.csdn.net/liu1390910/article/details/96300318/)  
+** 缩减表本身的大小
 * explain 的用法
 * java 8和java 11的区别
   
