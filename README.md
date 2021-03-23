@@ -14,11 +14,15 @@
 * hashmap在并发环境下会遇到什么问题
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么
 * 什么是聚簇索引，什么是非聚簇索引
+* 什么样的查询关键字会触发索引，什么样的不会
 * 联合索引是什么
 * spring boot是如何加载额外的依赖的
 * 查询性能问题如何优化
 * 自定义String类能否加载 -- 双亲委托机制
 * 数据库单表的优化问题
+参考链接 [全局分析](https://blog.csdn.net/yjn1995/article/details/98472759)
+* explain 的用法
+  
 * mysql的四种隔离级别
 * 
 # java
