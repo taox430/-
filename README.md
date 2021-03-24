@@ -24,7 +24,11 @@
 [1，理论](https://blog.csdn.net/yjn1995/article/details/98472759)  
 [2，例子 1](https://blog.csdn.net/liu1390910/article/details/96300318/)  
 
-** 缩减表本身的大小
+  * 缩减表本身的大小
+    * int类优化
+    * 枚举或整型代替字符串
+    * timestamp代替datetime [参考链接](https://blog.csdn.net/qq_43792882/article/details/104491761)
+    * 为什么要避免使用null   [参考链接](https://www.jianshu.com/p/766ccd8d216e)
 * explain 的用法
 * java 8和java 11的区别
   
