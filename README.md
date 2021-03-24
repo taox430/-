@@ -13,9 +13,6 @@
 
 * hashmap在并发环境下会遇到什么问题
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么
-* 什么是聚簇索引，什么是非聚簇索引
-* 什么样的查询关键字会触发索引，什么样的不会
-* 联合索引是什么
 * spring boot是如何加载额外的依赖的
 * 查询性能问题如何优化
 * 自定义String类能否加载 -- 双亲委托机制
@@ -23,13 +20,18 @@
 参考链接  
 [1，理论](https://blog.csdn.net/yjn1995/article/details/98472759)  
 [2，例子 1](https://blog.csdn.net/liu1390910/article/details/96300318/)  
-
+[3，例子 2](https://blog.csdn.net/qq_43162613/article/details/103774920)
   * 缩减表本身的大小
     * int类优化
     * 枚举或整型代替字符串
     * timestamp代替datetime [参考链接](https://blog.csdn.net/qq_43792882/article/details/104491761)
     * 为什么要避免使用null   [参考链接](https://www.jianshu.com/p/766ccd8d216e)
+  * 索引优化
+  	* 什么是聚簇索引，什么是非聚簇索引
+  	* 什么样的查询关键字会触发索引，什么样的不会
+  	* 联合索引是什么
 * explain 的用法
+[1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)
 * java 8和java 11的区别
   
 * mysql的四种隔离级别
