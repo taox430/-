@@ -43,7 +43,7 @@
   	* 联合索引  
       [定义](https://www.jianshu.com/p/f65be52d5e2b)  
       [数据结构](https://blog.csdn.net/weixin_30531261/article/details/79329722)   
-* explain 的用法
+* explain 的用法  
 [1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)  
 * java 8和java 11的区别
   
