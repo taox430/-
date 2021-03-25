@@ -40,9 +40,9 @@
   	  [唯一索引参考](https://blog.csdn.net/winy_lm/article/details/49718193)  
   	  唯一索引对应的列（或者多列）的值是唯一的
   	* 什么样的查询关键字会触发索引，什么样的不会
-  	* 联合索引
-      [定义](https://www.jianshu.com/p/f65be52d5e2b) 
-      [数据结构](https://blog.csdn.net/weixin_30531261/article/details/79329722)  
+  	* 联合索引  
+      [定义](https://www.jianshu.com/p/f65be52d5e2b)  
+      [数据结构](https://blog.csdn.net/weixin_30531261/article/details/79329722)   
 * explain 的用法
 [1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)  
 * java 8和java 11的区别
