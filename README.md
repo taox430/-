@@ -32,7 +32,7 @@
     [使用null的问题](https://dev.mysql.com/doc/refman/8.0/en/problems-with-null.html)  
     null会使索引变的复杂，增加一个索引字节， 但是null值查询也是可以走索引的
   * 索引优化
-  	* 什么是聚簇索引，什么是非聚簇索引 
+  	* 什么是聚簇索引，什么是非聚簇索引  
   	  [二者比较](https://blog.csdn.net/cacacai/article/details/83268678)  
       [数据结构比较](https://blog.csdn.net/ruanhao1203/article/details/98061034)  
       聚簇索引和非聚簇索引在innodb和myisam上的表现并不一样，在innodb里非聚簇索引项包含了主键
