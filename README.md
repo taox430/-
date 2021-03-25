@@ -25,11 +25,22 @@
     * int类优化
     * 枚举或整型代替字符串
     * timestamp代替datetime [参考链接](https://blog.csdn.net/qq_43792882/article/details/104491761)
-    * 为什么要避免使用null   [参考链接](https://www.jianshu.com/p/766ccd8d216e)
+    * 为什么要避免使用null   
+    [参考链接1](https://www.jianshu.com/p/766ccd8d216e)  
+    [在myisam中使用null](https://dev.mysql.com/doc/internals/en/myisam-introduction.html)
+    [在innodb中使用null](https://dev.mysql.com/doc/internals/en/innodb-field-contents.html)
+    [使用null的问题](https://dev.mysql.com/doc/refman/8.0/en/problems-with-null.html)
+    null会使索引变的复杂，增加一个索引字节， 但是null值查询也是可以走索引的
   * 索引优化
-  	* 什么是聚簇索引，什么是非聚簇索引 [参考链接](https://blog.csdn.net/cacacai/article/details/83268678)
+  	* 什么是聚簇索引，什么是非聚簇索引 
+  	  [二者比较](https://blog.csdn.net/cacacai/article/details/83268678)
+      [数据结构比较](https://blog.csdn.net/ruanhao1203/article/details/98061034)
+      聚簇索引和非聚簇索引在innodb和myisam上的表现并不一样，在innodb里非聚簇索引项包含了主键
+  	  * 非聚簇索引：普通索引，唯一索引，全文索引
+  	  [唯一索引参考](https://blog.csdn.net/winy_lm/article/details/49718193)
+  	  唯一索引对应的列（或者多列）的值是唯一的
   	* 什么样的查询关键字会触发索引，什么样的不会
-  	* 联合索引是什么
+  	* 联合索引的作用
 * explain 的用法
 [1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)
 * java 8和java 11的区别
