@@ -27,9 +27,9 @@
     * timestamp代替datetime [参考链接](https://blog.csdn.net/qq_43792882/article/details/104491761)
     * 为什么要避免使用null   
     [参考链接1](https://www.jianshu.com/p/766ccd8d216e)  
-    [在myisam中使用null](https://dev.mysql.com/doc/internals/en/myisam-introduction.html)
-    [在innodb中使用null](https://dev.mysql.com/doc/internals/en/innodb-field-contents.html)
-    [使用null的问题](https://dev.mysql.com/doc/refman/8.0/en/problems-with-null.html)
+    [在myisam中使用null](https://dev.mysql.com/doc/internals/en/myisam-introduction.html)  
+    [在innodb中使用null](https://dev.mysql.com/doc/internals/en/innodb-field-contents.html)  
+    [使用null的问题](https://dev.mysql.com/doc/refman/8.0/en/problems-with-null.html)  
     null会使索引变的复杂，增加一个索引字节， 但是null值查询也是可以走索引的
   * 索引优化
   	* 什么是聚簇索引，什么是非聚簇索引 
