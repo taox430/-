@@ -27,7 +27,7 @@
     * timestamp代替datetime [参考链接](https://blog.csdn.net/qq_43792882/article/details/104491761)
     * 为什么要避免使用null   [参考链接](https://www.jianshu.com/p/766ccd8d216e)
   * 索引优化
-  	* 什么是聚簇索引，什么是非聚簇索引
+  	* 什么是聚簇索引，什么是非聚簇索引 [参考链接](https://blog.csdn.net/cacacai/article/details/83268678)
   	* 什么样的查询关键字会触发索引，什么样的不会
   	* 联合索引是什么
 * explain 的用法
