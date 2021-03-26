@@ -16,6 +16,12 @@
 * spring boot是如何加载额外的依赖的
 * java自带的运行状况检测工具
 * 自定义String类能否加载 -- 双亲委托机制
+* java 8和java 11的区别
+* mysql的四种隔离级别
+  
+# java
+
+# mysql 
 * 数据库单表的优化问题
 参考链接  
 [1，理论](https://blog.csdn.net/yjn1995/article/details/98472759)  
@@ -50,15 +56,7 @@
     [1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)  
     [key_len](https://blog.csdn.net/wll_1017/article/details/71179577)
   * 引擎优化  
-      MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)  
-* java 8和java 11的区别
-  
-* mysql的四种隔离级别
-  
-# java
-
-# mysql 
-
+      MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)
 # spring boot 
 ## 缓存
 # redis
