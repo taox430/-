@@ -12,6 +12,7 @@
 # 不懂的问题  
 * spring boot是如何加载额外的依赖的
 * java自带的运行状况检测工具
+   [jvm性能检测工具](https://blog.csdn.net/qq_25825923/article/details/85074022)  
 * 自定义String类能否加载 -- 双亲委托机制
 * java 8和java 11的区别
 * mysql的四种隔离级别
@@ -28,6 +29,7 @@
 * synchronized
 * CAS
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
+* runnable和thread的区别
 # mysql 
 * 数据库单表的优化问题
 参考链接  
