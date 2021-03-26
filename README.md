@@ -12,6 +12,7 @@
 # 不懂的问题 
 
 * hashmap在并发环境下会遇到什么问题
+  [put/get死循环](https://blog.csdn.net/paincupid/article/details/51241783)  
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么
 * spring boot是如何加载额外的依赖的
 * java自带的运行状况检测工具
