@@ -47,6 +47,7 @@
       [数据结构](https://blog.csdn.net/feichitianxia/article/details/107997795)   
 * explain 的用法  
 [1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)  
+[key_len](https://blog.csdn.net/wll_1017/article/details/71179577)
 * java 8和java 11的区别
   
 * mysql的四种隔离级别
