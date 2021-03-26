@@ -51,7 +51,7 @@
 * java 8和java 11的区别
   
 * mysql的四种隔离级别
-* MyISAM和InnoDB的区别
+* MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)  
 # java
 
 # mysql 
