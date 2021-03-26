@@ -15,7 +15,7 @@
   [数据结构](https://blog.csdn.net/weixin_44460333/article/details/86770169)  
   [resize节点循环产生模拟](https://blog.csdn.net/paincupid/article/details/51241783)  
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么
-  [ConcurrentHashmap详解](https://blog.csdn.net/zzu_seu/article/details/106698150)  
+  [ConcurrentHashmap详解](https://blog.csdn.net/zzu_seu/article/details/106698150)这个问题太难了  
 * spring boot是如何加载额外的依赖的
 * java自带的运行状况检测工具
 * 自定义String类能否加载 -- 双亲委托机制
