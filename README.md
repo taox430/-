@@ -57,7 +57,9 @@
 # mysql 
 
 # spring boot 
-
+## 缓存
+# redis
 # MQ
 ## RabbitMQ
 ## ActiveMQ
+# 设计模式
