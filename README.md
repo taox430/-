@@ -23,6 +23,7 @@
   
 # java
 # 多线程
+* volatile
 # mysql 
 * 数据库单表的优化问题
 参考链接  
