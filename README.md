@@ -24,6 +24,7 @@
   * 缩减表本身的大小
     * int类优化
     * 枚举或整型代替字符串
+    * [字符串类型空间占用](https://blog.csdn.net/imzoer/article/details/8435540)  
     * timestamp代替datetime [参考链接](https://blog.csdn.net/qq_43792882/article/details/104491761)
     * 为什么要避免使用null   
     [参考链接1](https://www.jianshu.com/p/766ccd8d216e)  
