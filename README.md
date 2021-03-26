@@ -14,7 +14,7 @@
 * hashmap在并发环境下会遇到什么问题
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么
 * spring boot是如何加载额外的依赖的
-* 查询性能问题如何优化
+* java自带的运行状况检测工具
 * 自定义String类能否加载 -- 双亲委托机制
 * 数据库单表的优化问题
 参考链接  
@@ -46,13 +46,15 @@
   	* 联合索引  
       [定义](https://www.jianshu.com/p/f65be52d5e2b)  
       [数据结构](https://blog.csdn.net/feichitianxia/article/details/107997795)   
-* explain 的用法  
-[1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)  
-[key_len](https://blog.csdn.net/wll_1017/article/details/71179577)
+    * explain 的用法  
+    [1，理论](https://blog.csdn.net/why15732625998/article/details/80388236)  
+    [key_len](https://blog.csdn.net/wll_1017/article/details/71179577)
+  * 引擎优化  
+      MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)  
 * java 8和java 11的区别
   
 * mysql的四种隔离级别
-* MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)  
+  
 # java
 
 # mysql 
