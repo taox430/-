@@ -31,6 +31,7 @@
 * 死锁原因和基本解决思路  
   [参考资料1](https://www.jianshu.com/p/68c0fef7b63e)  
   [参考资料2](https://blog.csdn.net/wb_zjp283121/article/details/89673921)  
+* [java内存模型](https://www.jianshu.com/p/d52fea0d6ba5)
 * volatile
 * ReentrantLock
 * synchronized
