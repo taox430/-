@@ -24,13 +24,15 @@
   [ConcurrentHashmap详解](https://blog.csdn.net/zzu_seu/article/details/106698150)这个问题太难了 
 # 多线程
 * [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
-* [线程与进程的区别]
+* [线程与进程的区别](https://blog.csdn.net/feiBlog/article/details/85397287)
+* java 线程池
 * volatile
 * ReentrantLock
 * synchronized
+* thread local
 * CAS
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
-* runnable和thread的区别
+* [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
 # mysql 
 * 数据库单表的优化问题
 参考链接  
