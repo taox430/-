@@ -27,8 +27,8 @@
 * [线程与进程的区别](https://blog.csdn.net/feiBlog/article/details/85397287)
 * [java 线程池](https://www.jianshu.com/p/7726c70cdc40)  
   * [executor框架](https://blog.csdn.net/tongdanping/article/details/79604637)   
-* 死锁原因和基本解决思路 
-  [参考资料1](https://www.jianshu.com/p/68c0fef7b63e) 
+* 死锁原因和基本解决思路  
+  [参考资料1](https://www.jianshu.com/p/68c0fef7b63e)  
   [参考资料2](https://blog.csdn.net/wb_zjp283121/article/details/89673921)  
 * volatile
 * ReentrantLock
