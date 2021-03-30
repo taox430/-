@@ -67,6 +67,7 @@
   * 引擎优化  
       MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)
 # spring boot 
+* [启动流程解析](https://www.jianshu.com/p/87f101d8ec41)
 * [@SpringBootApplication与run()](https://blog.csdn.net/weixin_38405253/article/details/90375003)  
 * spring 注解原理
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
