@@ -72,7 +72,7 @@
   * 寻找依赖中的spring.factories文件，在配置application时加载所需的factory，并在run时初始化对应的类
 * spring 注解原理
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
-  * 元注解
+  * [元注解](https://blog.csdn.net/pengjunlee/article/details/79683621)
 * 依赖冲突问题
 ## 缓存
 # redis
