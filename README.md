@@ -72,6 +72,7 @@
 * spring 注解原理
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
   * 元注解
+* 依赖冲突问题
 ## 缓存
 # redis
 # MQ
