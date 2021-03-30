@@ -25,7 +25,8 @@
 # 多线程
 * [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
 * [线程与进程的区别](https://blog.csdn.net/feiBlog/article/details/85397287)
-* java 线程池
+* [java 线程池](https://www.jianshu.com/p/7726c70cdc40)  
+  * [executor框架](https://blog.csdn.net/tongdanping/article/details/79604637)   
 * volatile
 * ReentrantLock
 * synchronized
