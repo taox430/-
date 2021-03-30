@@ -67,6 +67,7 @@
   * 引擎优化  
       MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)
 # spring boot 
+* [@SpringBootApplication与run()](https://blog.csdn.net/weixin_38405253/article/details/90375003)  
 ## 缓存
 # redis
 # MQ
