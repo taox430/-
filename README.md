@@ -10,7 +10,6 @@
 * 企业应用架构设计
 
 # 不懂的问题  
-* spring boot是如何加载额外的依赖的
 * java自带的运行状况检测工具
    [jvm性能检测工具](https://blog.csdn.net/qq_25825923/article/details/85074022)  
 * 自定义String类能否加载 -- 双亲委托机制
@@ -69,6 +68,8 @@
 # spring boot 
 * [启动流程解析](https://www.jianshu.com/p/87f101d8ec41)
 * [@SpringBootApplication与run()](https://blog.csdn.net/weixin_38405253/article/details/90375003)  
+* spring boot如何加载pom中的依赖
+  * 寻找依赖中的spring.factories文件，在配置application时加载所需的factory，并在run时初始化对应的类
 * spring 注解原理
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
   * 元注解
