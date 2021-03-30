@@ -23,6 +23,8 @@
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么  
   [ConcurrentHashmap详解](https://blog.csdn.net/zzu_seu/article/details/106698150)这个问题太难了 
 # 多线程
+* [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
+* [线程与进程的区别]
 * volatile
 * ReentrantLock
 * synchronized
