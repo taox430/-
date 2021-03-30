@@ -69,6 +69,7 @@
 # spring boot 
 * [@SpringBootApplication与run()](https://blog.csdn.net/weixin_38405253/article/details/90375003)  
 * spring 注解原理
+  * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
   * 元注解
 ## 缓存
 # redis
