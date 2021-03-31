@@ -38,7 +38,8 @@
 * [threadlocal](https://www.jianshu.com/p/3c5d7f09dfbd)
   * [应用场景1](https://blog.csdn.net/Lynn_coder/article/details/102492360)  
   * [应用场景2](https://zhuanlan.zhihu.com/p/82737256)  
-* CAS
+* [CAS](https://www.jianshu.com/p/ab2c8fce878b)
+  * [compareAndSwapInt()](https://blog.csdn.net/qq_29519041/article/details/100048114)  
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
 # mysql 
