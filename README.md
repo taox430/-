@@ -35,7 +35,7 @@
 * [volatile](https://zhuanlan.zhihu.com/p/138819184)
 * ReentrantLock
 * synchronized
-* threadlocal
+* [threadlocal](https://www.jianshu.com/p/3c5d7f09dfbd)
 * CAS
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
