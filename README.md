@@ -36,6 +36,8 @@
 * ReentrantLock
 * synchronized
 * [threadlocal](https://www.jianshu.com/p/3c5d7f09dfbd)
+  * [应用场景1](https://blog.csdn.net/Lynn_coder/article/details/102492360)  
+  * [应用场景2](https://zhuanlan.zhihu.com/p/82737256)  
 * CAS
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
