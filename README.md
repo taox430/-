@@ -34,7 +34,7 @@
 * [java内存模型](https://www.jianshu.com/p/d52fea0d6ba5)
 * [volatile](https://zhuanlan.zhihu.com/p/138819184)
 * ReentrantLock
-* synchronized
+* [synchronized](https://blog.csdn.net/hebtu666/article/details/103057476)
 * [threadlocal](https://www.jianshu.com/p/3c5d7f09dfbd)
   * [应用场景1](https://blog.csdn.net/Lynn_coder/article/details/102492360)  
   * [应用场景2](https://zhuanlan.zhihu.com/p/82737256)  
