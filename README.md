@@ -95,3 +95,12 @@
 ## RabbitMQ
 ## ActiveMQ
 # 设计模式
+* [设计模式分类](https://blog.csdn.net/FBB360JAVA/article/details/105796205)
+* 常用设计模式简介
+* 单例模式
+* 观察者模式
+* 代理模式
+* 命令模式
+* 装饰模式
+* 抽象工厂模式
+* 其他需要掌握的模式
