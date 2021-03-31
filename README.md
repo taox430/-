@@ -32,10 +32,10 @@
   [参考资料1](https://www.jianshu.com/p/68c0fef7b63e)  
   [参考资料2](https://blog.csdn.net/wb_zjp283121/article/details/89673921)  
 * [java内存模型](https://www.jianshu.com/p/d52fea0d6ba5)
-* volatile
+* [volatile](https://zhuanlan.zhihu.com/p/138819184)
 * ReentrantLock
 * synchronized
-* thread local
+* threadlocal
 * CAS
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
