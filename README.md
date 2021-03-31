@@ -96,7 +96,7 @@
 ## ActiveMQ
 # 设计模式
 * [设计模式分类](https://blog.csdn.net/FBB360JAVA/article/details/105796205)
-* 常用设计模式简介
+* [23种设计模式简介](https://blog.csdn.net/weixin_34014555/article/details/89583679)
 * 单例模式
 * 观察者模式
 * 代理模式
