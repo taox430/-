@@ -101,6 +101,8 @@
 * 观察者模式
 * 建造者模式
 * 代理模式
+  * [java动态代理](https://blog.csdn.net/jiankunking/article/details/52143504)
+  * [动态代理和静态代理的区别](https://blog.csdn.net/fangqun663775/article/details/78960545) 
 * 命令模式
 * 装饰模式
 * 抽象工厂模式
