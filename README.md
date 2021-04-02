@@ -22,6 +22,9 @@
   [resize节点循环产生模拟](https://blog.csdn.net/paincupid/article/details/51241783)  
 * concurrenthashmap是如何解决并发问题的，其内部数据结构是什么  
   [ConcurrentHashmap详解](https://blog.csdn.net/zzu_seu/article/details/106698150)这个问题太难了 
+* 同步/异步
+* 阻塞/非阻塞
+* BIO/NIO/AIO
 # 多线程
 * [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
   * [线程操作](https://www.jianshu.com/p/f65ea68a4a7f) 
