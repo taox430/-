@@ -97,6 +97,7 @@
 * 依赖冲突问题
 ## 缓存
 # redis
+* [db与缓存不一致问题](https://www.cnblogs.com/rjzheng/p/9041659.html)
 # MQ
 ## RabbitMQ
 ## ActiveMQ
