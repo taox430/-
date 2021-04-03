@@ -46,6 +46,7 @@
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
 * [悲观锁与乐观锁](https://blog.csdn.net/qq_34337272/article/details/81072874)
+* [锁在内存中的位置--对象头](https://blog.csdn.net/weixin_39634900/article/details/110724757)
 # mysql 
 * 数据库单表的优化问题
 参考链接  
