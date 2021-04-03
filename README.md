@@ -45,6 +45,7 @@
   * [compareAndSwapInt()](https://blog.csdn.net/qq_29519041/article/details/100048114)  
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
+* [悲观锁与乐观锁](https://blog.csdn.net/qq_34337272/article/details/81072874)
 # mysql 
 * 数据库单表的优化问题
 参考链接  
