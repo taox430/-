@@ -12,7 +12,7 @@
 # 不懂的问题  
 * java自带的运行状况检测工具
    [jvm性能检测工具](https://blog.csdn.net/qq_25825923/article/details/85074022)  
-* 自定义String类能否加载 -- 双亲委托机制
+* 自定义String类能否加载 -- 双亲委托机制(https://blog.csdn.net/xiongyouqiang/article/details/79151903)
 * java 8和java 11的区别
 * [mysql的四种隔离级别](https://www.cnblogs.com/jian-gao/p/10795407.html)
   
