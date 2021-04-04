@@ -84,6 +84,7 @@
     [2，key_len](https://blog.csdn.net/wll_1017/article/details/71179577)
   * 引擎优化  
       MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)
+* [分库分表](https://blog.csdn.net/azhuyangjun/article/details/86976514)  
 # spring boot 
 * [依赖反转原则](https://zh.wikipedia.org/zh-hans/%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99)
   * [button & lamp例子](https://flylib.com/books/en/4.444.1.71/1/) 
