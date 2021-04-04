@@ -114,6 +114,7 @@
   * 对于没有接口的类，spring使用[cglib代理](https://blog.csdn.net/qq_33661044/article/details/79767596)
 * 命令模式
 * 装饰模式
+  * [java io看装饰模式和适配器模式](https://blog.csdn.net/philsonzhao/article/details/82188639)    
 * 抽象工厂模式
 * 其他需要掌握的模式
 # GC
