@@ -1,9 +1,7 @@
 ### - I never saw a wild thing sorry for itself. A small bird will drop frozen dead from a bough, without ever having felt sorry for itself
-谨记：不论到了哪里，都不能忘了学习和进步
 
   作为一个程序猿，其实一直并没有觉得github有什么特别的作用，但这个观点最近两年开始有了改变。  
-  先是会有同事推荐，可以在GitHub上找找某些东西的样例代码，然后自己想找些书看看，就开始翻翻某些repository上的藏书推荐，直到现在第一次开始建自己的repository，想着把以前和以后遇到和研究过的东西都记一下，也可以自己经常复习复习。  
-  不知道能坚持多久，但愿可以一直做下去  
+  先是会有同事推荐，可以在GitHub上找找某些东西的样例代码，然后自己想找些书看看，就开始翻翻某些repository上的藏书推荐，直到现在第一次开始建自己的repository，想着把以前和以后遇到和研究过的东西都记一下，也可以自己经常复习复习。   
 
 # 读过的书 
 
