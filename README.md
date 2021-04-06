@@ -100,6 +100,8 @@
 ## 缓存
 # redis
 * [db与缓存不一致问题](https://www.cnblogs.com/rjzheng/p/9041659.html)
+* 缓存丢弃机制
+* 主从备份机制
 # MQ
 ## RabbitMQ
 ## ActiveMQ
@@ -119,3 +121,5 @@
 * 抽象工厂模式
 * 其他需要掌握的模式
 # GC
+* 常用的gc算法
+  * java现在用的gc算法
