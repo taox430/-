@@ -123,8 +123,7 @@
 * 其他需要掌握的模式
 # GC
 * [新生代老生代](https://www.cnblogs.com/E-star/p/5556188.html)
-* Minor GC
-* Major GC
-* Full GC
+* [Minor GC + Major GC = Full GC](https://blog.csdn.net/u012988901/article/details/100630491)
+* 各种GC的触发条件
 * 如何判断内存是否需要回收
 * GC 算法
