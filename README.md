@@ -126,4 +126,8 @@
 * [Minor GC + Major GC = Full GC](https://blog.csdn.net/u012988901/article/details/100630491)
 * 各种GC的触发条件
 * 如何判断内存是否需要回收
-* GC 算法
+  * 引用计数
+  * 可达性分析
+    * GC Roots  
+* [GC 算法](https://www.cnblogs.com/fangfuhai/p/7203468.html?utm_source=itdadao&utm_medium=referral)
+  * 复制算法，标记清除算法，标记整理算法 
