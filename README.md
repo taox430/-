@@ -125,5 +125,6 @@
 * [新生代老生代](https://www.cnblogs.com/E-star/p/5556188.html)
 * Minor GC
 * Major GC
+* Full GC
 * 如何判断内存是否需要回收
 * GC 算法
