@@ -111,6 +111,10 @@
   * 怎么解决消息丢失问题 
 ## RabbitMQ
 ## ActiveMQ
+* MQ的常见问题
+  * 消息可靠传递(0丢失)
+  * 消息传递幂等性
+  * 消息积压问题
 # 设计模式
 * [设计模式分类](https://blog.csdn.net/FBB360JAVA/article/details/105796205)
 * [23种设计模式简介](https://blog.csdn.net/weixin_34014555/article/details/89583679)
