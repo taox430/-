@@ -108,7 +108,8 @@
   * 解耦，异步，削峰 
 * 常用MQ
   * 几种常见模式
-  * 怎么解决消息丢失问题 
+  * 怎么解决消息丢失问题
+* [RabbitMQ与Kafka对比](https://zhuanlan.zhihu.com/p/161224418)
 ## RabbitMQ
 ## ActiveMQ
 * MQ的常见问题
