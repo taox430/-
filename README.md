@@ -141,3 +141,5 @@
     * GC Roots  
 * [GC 算法](https://www.cnblogs.com/fangfuhai/p/7203468.html?utm_source=itdadao&utm_medium=referral)
   * 复制算法，标记清除算法，标记整理算法 
+# Netty
+* [零拷贝](https://mp.weixin.qq.com/s?__biz=Mzg2MjM1ODAyNQ==&mid=2247486558&idx=1&sn=9988d09238db763ac316ea9cdc93fc41&chksm=ce085338f97fda2e972a5b55956911dc184c2ffff8005576c7a1dca0fbe306e56e03be913214&token=940474257&lang=zh_CN#rd)  
