@@ -10,6 +10,7 @@
 # 不懂的问题   
 * java 8和java 11的区别
 * hystrix 熔断，重连算法
+* 
 * restful 接口定义规范
 * 本地通过docker打包调试
 * 微服务的test case中怎么做外部服务的接口模拟
@@ -17,6 +18,7 @@
 * json配置忽略null值
 * rate limit(限流器)
   * [常见限流算法](https://blog.csdn.net/fuqianming/article/details/100532819) 
+  * hystrix中的限流算法
 * circuit breaker(断路器)
 * cache 深入理解
   
