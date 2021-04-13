@@ -19,6 +19,7 @@
 * rate limit(限流器)
   * [常见限流算法](https://blog.csdn.net/fuqianming/article/details/100532819) 
   * hystrix中的限流算法
+  * [实现样例](https://github.com/mokies/ratelimitj/tree/master/ratelimitj-inmemory)
 * circuit breaker(断路器)
 * cache 深入理解
   
