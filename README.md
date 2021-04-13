@@ -21,6 +21,7 @@
   * [hystrix原理](https://blog.csdn.net/loushuiyifan/article/details/82702522)
     * [Official guide](https://github.com/Netflix/Hystrix/wiki) 
   * Guava的RateLimiter
+    * [基于RateLimiter与AOP实现api限流](https://www.cnblogs.com/chongaizhen/p/11125485.html) 
 * circuit breaker(断路器)
 * cache 深入理解
   
