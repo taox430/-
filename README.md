@@ -19,6 +19,7 @@
 * rate limit(限流器)
   * [常见限流算法](https://blog.csdn.net/fuqianming/article/details/100532819) 
   * [hystrix原理](https://blog.csdn.net/loushuiyifan/article/details/82702522)
+    * [Official guide](https://github.com/Netflix/Hystrix/wiki) 
   * Guava的RateLimiter
 * circuit breaker(断路器)
 * cache 深入理解
