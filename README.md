@@ -7,12 +7,8 @@
 
 * 企业应用架构设计
 
-# 不懂的问题  
-* java自带的运行状况检测工具
-   [jvm性能检测工具](https://blog.csdn.net/qq_25825923/article/details/85074022)  
-* 自定义String类能否加载 -- 双亲委托机制(https://blog.csdn.net/xiongyouqiang/article/details/79151903)
+# 不懂的问题   
 * java 8和java 11的区别
-* [mysql的四种隔离级别](https://www.cnblogs.com/jian-gao/p/10795407.html)
   
 # java
 * hashmap在并发环境下会遇到什么问题  
@@ -24,6 +20,9 @@
 * 阻塞/非阻塞
 * BIO/NIO/AIO
 * [protected关键字详解](https://blog.csdn.net/chepwavege/article/details/7340998)  
+* 自定义String类能否加载 -- 双亲委托机制(https://blog.csdn.net/xiongyouqiang/article/details/79151903)
+* java自带的运行状况检测工具   
+   [jvm性能检测工具](https://blog.csdn.net/qq_25825923/article/details/85074022)  
 # 多线程
 * [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
   * [线程操作](https://www.jianshu.com/p/f65ea68a4a7f) 
@@ -87,6 +86,7 @@
   * 引擎优化  
       MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)
 * [分库分表](https://blog.csdn.net/azhuyangjun/article/details/86976514)  
+* [mysql的四种隔离级别](https://www.cnblogs.com/jian-gao/p/10795407.html)
 # spring boot 
 * [依赖反转原则](https://zh.wikipedia.org/zh-hans/%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99)
   * [button & lamp例子](https://flylib.com/books/en/4.444.1.71/1/) 
