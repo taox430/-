@@ -111,6 +111,8 @@
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
   * [元注解](https://blog.csdn.net/pengjunlee/article/details/79683621)
 * 依赖冲突问题
+# Zuul
+* 限流机制
 ## 缓存
 # redis
 * [db与缓存不一致问题](https://www.cnblogs.com/rjzheng/p/9041659.html)
