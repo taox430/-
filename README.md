@@ -16,6 +16,7 @@
 * 微服务中依赖的接口响应慢该如何解决
 * json配置忽略null值
 * rate limit(限流器)
+  * [常见限流算法](https://blog.csdn.net/fuqianming/article/details/100532819) 
 * circuit breaker(断路器)
 * cache 深入理解
   
