@@ -9,6 +9,15 @@
 
 # 不懂的问题   
 * java 8和java 11的区别
+* hystrix 熔断，重连算法
+* restful 接口定义规范
+* 本地通过docker打包调试
+* 微服务的test case中怎么做外部服务的接口模拟
+* 微服务中依赖的接口响应慢该如何解决
+* json配置忽略null值
+* rate limit(限流器)
+* circuit breaker(断路器)
+* cache 深入理解
   
 # java
 * hashmap在并发环境下会遇到什么问题  
