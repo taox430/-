@@ -22,7 +22,7 @@
     * [Official guide](https://github.com/Netflix/Hystrix/wiki) 
   * Guava的RateLimiter
     * [基于RateLimiter与AOP实现api限流](https://www.cnblogs.com/chongaizhen/p/11125485.html) 
-* circuit breaker(断路器)
+* [circuit breaker(断路器)](https://www.oschina.net/question/54100_2285459)
 * cache 深入理解
   
 # java
