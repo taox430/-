@@ -117,6 +117,7 @@
 * 限流机制
 ## 缓存
 # redis
+* [常用场景](https://www.cnblogs.com/liuqingzheng/p/11080539.html)
 * [db与缓存不一致问题](https://www.cnblogs.com/rjzheng/p/9041659.html)
 * [内存不足时淘汰策略](https://blog.csdn.net/u014590757/article/details/79788076)
 * [集群策略](https://blog.csdn.net/miss1181248983/article/details/90056960)
