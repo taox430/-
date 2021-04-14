@@ -121,6 +121,7 @@
 * [db与缓存不一致问题](https://www.cnblogs.com/rjzheng/p/9041659.html)
 * [内存不足时淘汰策略](https://blog.csdn.net/u014590757/article/details/79788076)
 * [集群策略](https://blog.csdn.net/miss1181248983/article/details/90056960)
+* [单线程内核处理并发请求 -- epoll](https://blog.csdn.net/songchuwang1868/article/details/89877739/)
 # MQ
 * [为什么要使用MQ](https://www.jianshu.com/p/2820561158c4)
   * 解耦，异步，削峰 
