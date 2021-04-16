@@ -62,6 +62,7 @@
   * [应用场景2](https://zhuanlan.zhihu.com/p/82737256)  
 * [CAS](https://www.jianshu.com/p/ab2c8fce878b)
   * [compareAndSwapInt()](https://blog.csdn.net/qq_29519041/article/details/100048114)  
+* [AQS](https://www.jianshu.com/p/da9d051dcc3d)
 * [CopyOnWrite](https://www.jianshu.com/p/afc6e0ae08b0)
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
