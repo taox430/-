@@ -62,6 +62,7 @@
   * [应用场景2](https://zhuanlan.zhihu.com/p/82737256)  
 * [CAS](https://www.jianshu.com/p/ab2c8fce878b)
   * [compareAndSwapInt()](https://blog.csdn.net/qq_29519041/article/details/100048114)  
+* [CopyOnWrite](https://www.jianshu.com/p/afc6e0ae08b0)
 * [Unsafe](https://blog.csdn.net/zmx729618/article/details/78528227)   
 * [runnable和thread的区别](https://blog.csdn.net/u013755987/article/details/51855098)
 * [悲观锁与乐观锁](https://blog.csdn.net/qq_34337272/article/details/81072874)
