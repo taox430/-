@@ -38,6 +38,9 @@
 * 自定义String类能否加载 -- 双亲委托机制(https://blog.csdn.net/xiongyouqiang/article/details/79151903)
 * java自带的运行状况检测工具   
    [jvm性能检测工具](https://blog.csdn.net/qq_25825923/article/details/85074022)  
+* 内存泄漏
+  * [原因总结](https://blog.csdn.net/weter_drop/article/details/89387564) 
+  * [可能原因与避免](https://blog.csdn.net/u012516166/article/details/77014910)
 # 多线程
 * [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
   * [线程操作](https://www.jianshu.com/p/f65ea68a4a7f) 
