@@ -127,7 +127,12 @@
 * [集群策略](https://blog.csdn.net/miss1181248983/article/details/90056960)
 * [单线程内核处理并发请求 -- epoll](https://blog.csdn.net/songchuwang1868/article/details/89877739/)
 * [缓存穿透，缓存击穿，缓存雪崩](https://blog.csdn.net/kongtiao5/article/details/82771694)
-* 基础数据结构
+* [基础数据结构](https://www.runoob.com/redis/redis-data-types.html)
+* 内部结构
+  * dict
+  * sds
+  * quicklist
+  * ziplist 
   * [skipList](https://www.cnblogs.com/xindoo/p/14020053.html) 
 # MQ
 * [为什么要使用MQ](https://www.jianshu.com/p/2820561158c4)
