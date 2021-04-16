@@ -10,7 +10,6 @@
 # 不懂的问题   
 * java 8和java 11的区别
 * hystrix 熔断，重连算法
-* 
 * restful 接口定义规范
 * 本地通过docker打包调试
 * 微服务的test case中怎么做外部服务的接口模拟
@@ -128,6 +127,8 @@
 * [集群策略](https://blog.csdn.net/miss1181248983/article/details/90056960)
 * [单线程内核处理并发请求 -- epoll](https://blog.csdn.net/songchuwang1868/article/details/89877739/)
 * [缓存穿透，缓存击穿，缓存雪崩](https://blog.csdn.net/kongtiao5/article/details/82771694)
+* 基础数据结构
+  * [skipList](https://www.cnblogs.com/xindoo/p/14020053.html) 
 # MQ
 * [为什么要使用MQ](https://www.jianshu.com/p/2820561158c4)
   * 解耦，异步，削峰 
