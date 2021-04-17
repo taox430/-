@@ -23,6 +23,7 @@
     * [基于RateLimiter与AOP实现api限流](https://www.cnblogs.com/chongaizhen/p/11125485.html) 
 * [circuit breaker(断路器)](https://www.oschina.net/question/54100_2285459)
 * cache 深入理解
+* [Http与Https的区别](https://blog.csdn.net/xiaoming100001/article/details/81109617)
   
 # java
 * hashmap在并发环境下会遇到什么问题  
