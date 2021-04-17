@@ -161,6 +161,7 @@
 * 单例模式
 * 观察者模式
 * 建造者模式
+* [适配器模式](https://www.jianshu.com/p/9d0575311214)
 * 代理模式
   * [java动态代理](https://blog.csdn.net/jiankunking/article/details/52143504)
   * [动态代理和静态代理的区别](https://blog.csdn.net/fangqun663775/article/details/78960545) 
