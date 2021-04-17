@@ -59,6 +59,7 @@
   * [公平锁机制](https://blog.csdn.net/fuyuwei2015/article/details/83719444)
   * AQS 
 * [synchronized](https://blog.csdn.net/hebtu666/article/details/103057476)
+  * [synchronized与volatile的区别](https://blog.csdn.net/suifeng3051/article/details/52611233) 
 * [threadlocal](https://www.jianshu.com/p/3c5d7f09dfbd)
   * [应用场景1](https://blog.csdn.net/Lynn_coder/article/details/102492360)  
   * [应用场景2](https://zhuanlan.zhihu.com/p/82737256)  
