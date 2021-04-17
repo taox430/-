@@ -41,6 +41,8 @@
 * 内存泄漏
   * [原因总结](https://blog.csdn.net/weter_drop/article/details/89387564) 
   * [可能原因与避免](https://blog.csdn.net/u012516166/article/details/77014910)
+* [反射](https://blog.csdn.net/ye1714505125/article/details/108919425)
+  * [类的加载机制](https://blog.csdn.net/justloveyou_/article/details/72217806)
 # 多线程
 * [线程基础](https://www.jianshu.com/p/d901b25e0d4a)
   * [线程操作](https://www.jianshu.com/p/f65ea68a4a7f) 
