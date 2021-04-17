@@ -119,7 +119,9 @@
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
   * [元注解](https://blog.csdn.net/pengjunlee/article/details/79683621)
 * 依赖冲突问题
-# Zuul
+# Spring Cloud
+
+## Zuul
 * 限流机制
 ## 缓存
 # redis
@@ -181,3 +183,6 @@
 # 数据结构
 * 红黑树
   * [数据插入](https://zhuanlan.zhihu.com/p/79980618)
+# 分布式
+* [CAP](https://blog.csdn.net/qq_40180411/article/details/88413611)
+  * spring cloud实现了[AP原则](https://blog.csdn.net/eson_15/article/details/85561179) 
