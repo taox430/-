@@ -105,6 +105,8 @@
   * 引擎优化  
       MyISAM和InnoDB的[区别](https://www.runoob.com/w3cnote/mysql-different-nnodb-myisam.html)
 * [分库分表](https://blog.csdn.net/azhuyangjun/article/details/86976514)  
+* [事务的实现原理](https://www.cnblogs.com/kismetv/p/10331633.html)
+  * ACID -- undo log, redo log, 锁， MVCC 
 * [mysql的四种隔离级别](https://www.cnblogs.com/jian-gao/p/10795407.html)
 # spring boot 
 * [依赖反转原则](https://zh.wikipedia.org/zh-hans/%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99)
