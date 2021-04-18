@@ -124,6 +124,7 @@
   * [@Configuration](https://mp.weixin.qq.com/s/ScF8n-SRj8NHmuQdO8M97A) 
   * [元注解](https://blog.csdn.net/pengjunlee/article/details/79683621)
 * 依赖冲突问题
+* [基于注解的AOP](https://www.cnblogs.com/onlymate/p/9605165.html)
 # Spring Cloud
 
 ## Zuul
