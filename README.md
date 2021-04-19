@@ -137,6 +137,7 @@
 * [db与缓存不一致问题](https://www.cnblogs.com/rjzheng/p/9041659.html)
 * [内存不足时淘汰策略](https://blog.csdn.net/u014590757/article/details/79788076)
 * [集群策略](https://blog.csdn.net/miss1181248983/article/details/90056960)
+  * [主从不一致的处理策略](https://www.cnblogs.com/wadhf/p/11865681.html) 
 * [单线程内核处理并发请求 -- epoll](https://blog.csdn.net/songchuwang1868/article/details/89877739/)
 * [缓存穿透，缓存击穿，缓存雪崩](https://blog.csdn.net/kongtiao5/article/details/82771694)
 * [基础数据结构](https://www.runoob.com/redis/redis-data-types.html)
