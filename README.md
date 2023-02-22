@@ -196,3 +196,6 @@
 # 分布式
 * [CAP](https://blog.csdn.net/qq_40180411/article/details/88413611)
   * spring cloud实现了[AP原则](https://blog.csdn.net/eson_15/article/details/85561179) 
+# 算法
+* [union-find](https://blog.csdn.net/weixin_45525272/article/details/125079834)
+  * [相关leet code](https://www.cnblogs.com/grandyang/p/16866158.html)
